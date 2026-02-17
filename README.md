@@ -67,4 +67,4 @@ All of the above operations need to be performed with administrator privileges.
 + IdeaPad Slim 5 14AHP9 (83DB)
 + Lenovo LOQ 15IRH8/15IRX9
 + Lenovo Yoga Slim 7 Aura Edition 15,3"
-+ ...
++ ...other series
